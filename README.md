@@ -20,7 +20,7 @@
 </details>
 <details>
   <summary><strong>Processos em Produção:</strong></summary>
-- aqui vai os processos que estaõ em produção projeto <code>.....</code>.
+- aqui vai os processos que estaõ em produção no projeto <code>.....</code>.
 </details>
 <details>
   <summary><strong>Processos Prontos:</strong></summary>
