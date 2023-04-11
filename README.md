@@ -24,5 +24,5 @@
 </details>
 <details>
   <summary><strong>Processos Prontos:</strong></summary>
-- aqui vai os processos a prontos no projeto <code>.....</code>.
+- aqui vai os processos  prontos no projeto <code>.....</code>.
 </details>
