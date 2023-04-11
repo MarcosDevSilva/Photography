@@ -6,8 +6,8 @@
 - O site será dvidido em 3 paginas BIO FOTOS CONTATTO
 
 <details>
-  <summary><strong>O que será testado:</strong></summary>
-- O texto do parágrafo não pode ser <code>-----</code>.
+  <summary><strong>Estrutura do Site:</strong></summary>
+- Reunir a equipe para montar a estrutura <code>-----</code>.
 </details>
 
 ## Exercício 2 - Alterando a cor - elemento amarelo
