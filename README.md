@@ -10,9 +10,9 @@
 - Reunir a equipe para montar a estrutura <code>-----</code>.
 </details>
 
-## Exercício 2 - Alterando a cor - elemento amarelo
+## Primeira Reunião
 
-- Crie e execute uma função que mude a cor de fundo do elemento amarelo para `rgb(76, 164, 109)`.
+- Escreva aqui a pauta discutidas na primeira reunião`.
 
 <details>
   <summary><strong>O que será testado:</strong></summary>
