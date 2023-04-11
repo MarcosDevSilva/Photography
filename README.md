@@ -1,9 +1,9 @@
 # Photography
-# Requisitos
+# Proposta
 
-## Exercício 1 - Alterando o texto
+## criar um site de fotografias
 
-- Crie e execute uma função que mude o texto na tag `<p>-----</p>`, para uma descrição de como você se vê daqui a 2 anos.
+- O site será dvidido em 3 paginas BIO FOTOS CONTATTO
 
 <details>
   <summary><strong>O que será testado:</strong></summary>
