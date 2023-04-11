@@ -15,6 +15,14 @@
 - Escreva aqui a pauta discutidas na primeira reunião`.
 
 <details>
-  <summary><strong>O que será testado:</strong></summary>
-- A nova cor de fundo do elemento amarelo deve ser <code>rgb(76, 164, 109)</code>.
+  <summary><strong>Processos a Fazer:</strong></summary>
+- aqui vai os processos a serem implementados no projeto <code>.....</code>.
+</details>
+<details>
+  <summary><strong>Processos em Produção:</strong></summary>
+- aqui vai os processos que estaõ em produção projeto <code>.....</code>.
+</details>
+<details>
+  <summary><strong>Processos Prontos:</strong></summary>
+- aqui vai os processos a prontos no projeto <code>.....</code>.
 </details>
